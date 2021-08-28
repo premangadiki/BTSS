@@ -1,0 +1,28 @@
+body{
+    background-color: purple;
+}
+
+.bald{
+    font-size: 450%;
+    font-style: italic;
+    color: white;
+}
+
+.hi ,.hi2,.hi3,.hi4,.ok1,.ok2,.ok3,.ok4,.ok5,.ok6,.ok7,.hi23{
+    font-style: italic;
+    color: white;
+    font-size: 50px;
+}
+
+.ok8,.ok9,.ok10{
+    color: white;
+}
+
+.ok10,.q89{
+    font-family: 'Trade Winds', cursive;
+}
+
+.button{
+    background-color: black;
+    color: white;
+}
